@@ -104,7 +104,7 @@ prompt += f"\n\nCPI trend by year:\n{trend_lines}"
 import google.generativeai as genai  # pip install google-generativeai
 
 # ✅ Configure with your API key
-genai.configure(api_key="AIzaSyBI6qB_v_jNo5-81ecZWmKpRAhkV2QwFIc")  # Replace this with your real key securely
+genai.configure(api_key="YOUR API KEY")  # Replace this with your real key securely
 
 # ✅ Use Gemini Flash 1.5 (latest)
 model = genai.GenerativeModel(model_name="models/gemini-1.5-flash-latest")
