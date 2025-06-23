@@ -25,6 +25,7 @@ A Streamlit web app that lets users analyze how inflation has impacted common ex
 
 
 #Demo
+
 ![image](https://github.com/user-attachments/assets/a93b4bb3-3356-496e-bbeb-df33b706070a)
 
 ![image](https://github.com/user-attachments/assets/1088c9e0-c418-402e-b801-2a5b72b60e4d)
